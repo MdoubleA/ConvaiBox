@@ -14,7 +14,7 @@ Run/do the following after repository, python, and elixir download from project 
 </ol>
 
 ## Enviornment
-I attempted to make this as portal as possible, but installing the various dependencies that power the Hugging Face and 
+I attempted to make this as portable as possible, but installing the various dependencies that power the Hugging Face and 
 PyTorch libraries has proven problematic.
 In case of complication, current system details are given below.
 

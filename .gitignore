@@ -1,5 +1,6 @@
 /.idea
 /build
+ConvaiBox.egg-info
 /dist
 /env
 /tests
