@@ -1,0 +1,7 @@
+/venv
+/.idea
+/__pycache__
+/ConvaiBox/__pycache__
+/ConvaiBox/trained_model
+/env
+setup.py
